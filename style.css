@@ -1,0 +1,44 @@
+.container{
+    margin-bottom: 80px;
+}
+.bg-color{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.Buy-button{
+    
+    background-image: linear-gradient(to bottom, #cc1259 0%, #ff136f 100% );
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 12px;
+}
+.cat1{
+    background-image: linear-gradient(45deg, rgb(47, 47, 153) 0%, rgb(0, 0, 255) 100%  );
+    
+}
+.cat2{
+    background-image: linear-gradient(45deg, rgb(187, 130, 23) 0%, rgb(245, 163, 11) 100%  );
+    /* background-color: rgb(245, 163, 11); */
+}
+.cat3{
+    background-image: linear-gradient(45deg, rgb(172, 39, 167) 0%, rgb(243, 11, 235) 100%  );
+
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
